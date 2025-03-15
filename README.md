@@ -1,4 +1,4 @@
-# diabetic-foot-detection
+ TO DOWNLOAD THE WHOLE PROJECT FOLDER (https://drive.google.com/file/d/1QLWH6JZcmo9F8CUPfZLYzTWJFCMzdc1C/view?usp=drive_link)# diabetic-foot-detection
 # Diabetic Foot Detection using ResNet50
 
 ## 📌 Project Overview
